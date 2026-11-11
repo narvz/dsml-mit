@@ -16,7 +16,7 @@ Each topic folder has:
 | 02 | **Clustering** | [clustering.md](02_clustering/clustering.md) | [clustering.ipynb](02_clustering/clustering.ipynb) | ✅ |
 | 03 | **Regression** | [regression.md](03_regression/regression.md) | [regression.ipynb](03_regression/regression.ipynb) | ✅ |
 | 04 | **Classification** | [classification.md](04_classification/classification.md) | [classification.ipynb](04_classification/classification.ipynb) | ✅ |
-| 05 | Deep Learning (ANN, CNN) | — | — | 🔜 |
+| 05 | **Deep Learning** (ANN, CNN) | [deep_learning.md](05_deep_learning/deep_learning.md) | [deep_learning.ipynb](05_deep_learning/deep_learning.ipynb) | ✅ |
 | 06 | Recommendation Systems | — | — | 🔜 |
 | — | [Projects](projects/) | Cleaned portfolio projects (one per topic + Hackathon) | | 🔜 |
 
