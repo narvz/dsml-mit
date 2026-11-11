@@ -10,8 +10,10 @@ Each topic folder has:
 
 | # | Topic | Cheatsheet | Notebook | Status |
 |---|---|---|---|---|
-| 00 | Foundations: Python & Statistics | — | — | 🔜 |
-| 01 | Toolkit: preprocessing, PCA / t-SNE | — | — | 🔜 |
+| 00 | **Python, pandas, NumPy, plots** | [python_pandas_numpy.md](00_foundations/python_pandas_numpy.md) | [python_pandas_numpy.ipynb](00_foundations/python_pandas_numpy.ipynb) | ✅ |
+| 00 | **Statistics & hypothesis testing** | [statistics.md](00_foundations/statistics.md) | [statistics.ipynb](00_foundations/statistics.ipynb) | ✅ |
+| 01 | **Preprocessing** | [preprocessing.md](01_toolkit/preprocessing.md) | [preprocessing.ipynb](01_toolkit/preprocessing.ipynb) | ✅ |
+| 01 | **Dimensionality reduction** (PCA, t-SNE) | [dimensionality_reduction.md](01_toolkit/dimensionality_reduction.md) | [dimensionality_reduction.ipynb](01_toolkit/dimensionality_reduction.ipynb) | ✅ |
 | 01 | **Evaluation metrics (all topics)** | [evaluation_metrics.md](01_toolkit/evaluation_metrics.md) | — | ✅ |
 | 02 | **Clustering** | [clustering.md](02_clustering/clustering.md) | [clustering.ipynb](02_clustering/clustering.ipynb) | ✅ |
 | 03 | **Regression** | [regression.md](03_regression/regression.md) | [regression.ipynb](03_regression/regression.ipynb) | ✅ |
