@@ -15,7 +15,7 @@ Each topic folder has:
 | 01 | **Evaluation metrics (all topics)** | [evaluation_metrics.md](01_toolkit/evaluation_metrics.md) | — | ✅ |
 | 02 | **Clustering** | [clustering.md](02_clustering/clustering.md) | [clustering.ipynb](02_clustering/clustering.ipynb) | ✅ |
 | 03 | **Regression** | [regression.md](03_regression/regression.md) | [regression.ipynb](03_regression/regression.ipynb) | ✅ |
-| 04 | Classification & Hypothesis Testing | — | — | 🔜 |
+| 04 | **Classification** | [classification.md](04_classification/classification.md) | [classification.ipynb](04_classification/classification.ipynb) | ✅ |
 | 05 | Deep Learning (ANN, CNN) | — | — | 🔜 |
 | 06 | Recommendation Systems | — | — | 🔜 |
 | — | [Projects](projects/) | Cleaned portfolio projects (one per topic + Hackathon) | | 🔜 |
