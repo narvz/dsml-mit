@@ -14,7 +14,7 @@ Each topic folder has:
 | 01 | Toolkit: preprocessing, PCA / t-SNE | — | — | 🔜 |
 | 01 | **Evaluation metrics (all topics)** | [evaluation_metrics.md](01_toolkit/evaluation_metrics.md) | — | ✅ |
 | 02 | **Clustering** | [clustering.md](02_clustering/clustering.md) | [clustering.ipynb](02_clustering/clustering.ipynb) | ✅ |
-| 03 | Regression | — | — | 🔜 |
+| 03 | **Regression** | [regression.md](03_regression/regression.md) | [regression.ipynb](03_regression/regression.ipynb) | ✅ |
 | 04 | Classification & Hypothesis Testing | — | — | 🔜 |
 | 05 | Deep Learning (ANN, CNN) | — | — | 🔜 |
 | 06 | Recommendation Systems | — | — | 🔜 |
