@@ -1,0 +1,32 @@
+[project]
+name = "dsml-mit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Rodrigo Narvaez", email = "rodrigo_narvaez@outlook.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "kmedoids>=0.5.5",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.1",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+dsml-mit = "dsml_mit:main"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "nbconvert>=7.17.2",
+]

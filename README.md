@@ -1,0 +1,41 @@
+# MIT Data Science & ML — Cheatsheet
+
+A clean, topic-by-topic summary of the **MIT Professional Education — Applied Data Science Program** (Great Learning). The original course work lives in Google Drive (`MIT GT - Data Science`); this repo is the **cleaned-up version**.
+
+Each topic folder has:
+- **`<topic>.md`**: theory: what each model is, when to use it, key hyperparameters, how to evaluate it, common mistakes.
+- **`<topic>.ipynb`**: implementation: every model of the topic on **one dataset**, ending in a comparison.
+
+## Contents
+
+| # | Topic | Cheatsheet | Notebook | Status |
+|---|---|---|---|---|
+| 00 | Foundations: Python & Statistics | — | — | 🔜 |
+| 01 | Toolkit: preprocessing, PCA / t-SNE | — | — | 🔜 |
+| 01 | **Evaluation metrics (all topics)** | [evaluation_metrics.md](01_toolkit/evaluation_metrics.md) | — | ✅ |
+| 02 | **Clustering** | [clustering.md](02_clustering/clustering.md) | [clustering.ipynb](02_clustering/clustering.ipynb) | ✅ |
+| 03 | Regression | — | — | 🔜 |
+| 04 | Classification & Hypothesis Testing | — | — | 🔜 |
+| 05 | Deep Learning (ANN, CNN) | — | — | 🔜 |
+| 06 | Recommendation Systems | — | — | 🔜 |
+| — | [Projects](projects/) | Cleaned portfolio projects (one per topic + Hackathon) | | 🔜 |
+
+## Which model when? (quick guide)
+
+| I want to… | Topic | Start with |
+|---|---|---|
+| Group similar rows, no target | Clustering | K-Means → check GMM / DBSCAN |
+| Predict a number | Regression | Linear Regression → Random Forest / Boosting |
+| Predict a category | Classification | Logistic Regression → Random Forest / Boosting |
+| Reduce # of columns / visualize | Toolkit | PCA (linear), t-SNE (visual only) |
+| Images, or very complex patterns | Deep Learning | CNN (images), ANN (tabular) |
+| Recommend items to users | Recommendation | Popularity → Collaborative filtering → Matrix factorization (SVD) |
+
+## Setup
+
+```bash
+uv sync
+uv run jupyter lab
+```
+
+Datasets are in [`data/`](data/).
