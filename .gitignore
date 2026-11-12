@@ -11,3 +11,6 @@ wheels/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Trained models (rebuild by running the notebooks)
+*.joblib
