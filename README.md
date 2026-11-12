@@ -19,7 +19,7 @@ Each topic folder has:
 | 03 | **Regression** | [regression.md](03_regression/regression.md) | [regression.ipynb](03_regression/regression.ipynb) | ✅ |
 | 04 | **Classification** | [classification.md](04_classification/classification.md) | [classification.ipynb](04_classification/classification.ipynb) | ✅ |
 | 05 | **Deep Learning** (ANN, CNN) | [deep_learning.md](05_deep_learning/deep_learning.md) | [deep_learning.ipynb](05_deep_learning/deep_learning.ipynb) | ✅ |
-| 06 | Recommendation Systems | — | — | 🔜 |
+| 06 | **Recommendation Systems** | [recommendation_systems.md](06_recommendation/recommendation_systems.md) | [recommendation_systems.ipynb](06_recommendation/recommendation_systems.ipynb) | ✅ |
 | — | [Projects](projects/) | Cleaned portfolio projects (one per topic + Hackathon) | | 🔜 |
 
 ## Which model when? (quick guide)
