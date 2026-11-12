@@ -1,7 +1,7 @@
 # SuperKart Sales Prediction
 
 > **Type:** Supervised learning, regression · **Course:** Module 3 Guided Project + Capstone
-> **Notebook:** [03_regression/regression.ipynb](../../03_regression/regression.ipynb) · **Data:** [superkart.csv](../../data/superkart.csv)
+> **Notebook:** [03_regression/regression.ipynb](../../03_regression/regression.ipynb) · **Data:** `superkart.csv` ([sources](../../data/README.md))
 
 ## Problem
 A supermarket chain wants to **forecast the sales revenue of each product in each store** for the next quarter, to plan inventory and sales strategy across city tiers. 8,763 product × store records.

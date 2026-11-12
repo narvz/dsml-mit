@@ -1,7 +1,7 @@
 # Customer Personality Segmentation
 
 > **Type:** Unsupervised learning (clustering) · **Course:** Module 2 Capstone
-> **Notebook:** [02_clustering/clustering.ipynb](../../02_clustering/clustering.ipynb) · **Data:** [customer_personality.csv](../../data/customer_personality.csv)
+> **Notebook:** [02_clustering/clustering.ipynb](../../02_clustering/clustering.ipynb) · **Data:** `customer_personality.csv` ([sources](../../data/README.md))
 
 ## Problem
 A retailer wants to **segment its 2,240 customers** by demographics, spending and channel behavior so it can personalize campaigns, retain high-value customers and plan inventory.

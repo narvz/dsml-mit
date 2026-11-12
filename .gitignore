@@ -14,3 +14,7 @@ wheels/
 
 # Trained models (rebuild by running the notebooks)
 *.joblib
+
+# Datasets (course data, not redistributable): see data/README.md
+data/*
+!data/README.md

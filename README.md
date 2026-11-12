@@ -40,4 +40,4 @@ uv sync
 uv run jupyter lab
 ```
 
-Datasets are in [`data/`](data/).
+Datasets are **not included** (course data). See [data/README.md](data/README.md) for their sources and where to put them. Notebook outputs are saved, so all results are visible without the data.

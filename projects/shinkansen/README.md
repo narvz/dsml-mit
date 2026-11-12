@@ -1,7 +1,7 @@
 # Shinkansen Travel Experience: Passenger Satisfaction ⭐
 
 > **Type:** Binary classification, end-to-end · **Course:** MIT ADSP Hackathon
-> **Notebook:** [shinkansen.ipynb](shinkansen.ipynb) · **Data:** [data/shinkansen/](../../data/shinkansen/) (gzipped CSVs) · **Output:** [submission.csv](submission.csv)
+> **Notebook:** [shinkansen.ipynb](shinkansen.ipynb) · **Data:** `data/shinkansen/` ([sources](../../data/README.md)) · **Output:** [submission.csv](submission.csv)
 
 ## Problem
 A high-speed rail operator collected **travel data** (who travelled, class, distance, delays) and a **15-question service survey** for 94,379 trips. Predict whether each passenger's **overall experience was positive**, and find **which service aspects drive satisfaction**, so investment goes where it matters. Leaderboard metric: **accuracy** (~55/45 classes).

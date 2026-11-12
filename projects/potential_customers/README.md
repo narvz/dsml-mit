@@ -2,7 +2,7 @@
 
 > **Type:** Supervised learning, binary classification · **Course:** Module 4 Project Assessment
 > **Notebooks:** [04_classification/classification.ipynb](../../04_classification/classification.ipynb) (8 ML models) · [05_deep_learning/deep_learning.ipynb](../../05_deep_learning/deep_learning.ipynb) (ANN on the same data)
-> **Data:** [extraalearn.csv](../../data/extraalearn.csv)
+> **Data:** `extraalearn.csv` ([sources](../../data/README.md))
 
 ## Problem
 An online education startup gets thousands of leads. Which ones will **convert to paid customers**? The sales team wants to focus on them. 4,612 leads, **~30% convert** (imbalanced).
